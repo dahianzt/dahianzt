@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dahianzt
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning C#...
-- 💞️ I’m looking to collaborate on new projects...
-  
+
 
 <!---
 dahianzt/dahianzt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
